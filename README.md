@@ -2,6 +2,10 @@
 텐원더스 근무기간동안 개발한 근로장학생용 인트라넷입니다.
 
 >> pip install -r requirements.txt 로 한번에 설치
+>> 
+
+
+**Requirements.txt**
 
 asgiref==3.2.7
 attrs==19.3.0
